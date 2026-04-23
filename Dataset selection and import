@@ -1,16 +1,21 @@
 Dataset selection and import
 
-The dataset has 1201 rows and 13 coloums
+The dataset has 1201 rows and 13 coloumns
 The data in dataset is in Structured data type
 There are no missing values in this dataset.
 
 observations:
 
-1]In the dataset the least sleep time of people  is 4 hr 
-and no. of peoples are 10, out of 10 peoples, 7 peoples are female and 3 peoples are men
+1. Sleep Duration and Demographics
+In the dataset, the minimum sleep duration recorded is 4 hours.
+The total number of people is 10, out of which 7 are female and 3 are male.
 
-2] Surprisigly there were 391 peoples are using both platforms out of these 342 peoples are 15 or below 15 age group
+2. Platform Usage
+Surprisingly, 391 people are using both platforms.
+Out of these, 342 people are aged 15 or below.
 
-3] In the dataset 182 teenagers have low social interaction level.
+3. Social Interaction
+In the dataset, 182 teenagers have a low level of social interaction.
 
-4] In the dataset a male aged 15 has high level of stress,anxiety and addiction levels.
+4. Mental Health Observation
+In the dataset, a 15-year-old male has high levels of stress, anxiety, and addiction.
